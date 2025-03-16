@@ -12,12 +12,17 @@ pip install -r requirements.txt
 ```
 mkdir dashboard
 cd dashboard
-<!-- creat venv -->
+#create venv
 python -m venv streamlit_env
 
-<!-- Mac/Linux -->
+#Activate
+1.windows
+streamlit_env\Scripts\activate
+2.Mac/Linux
 source streamlit_env/bin/activate
+
 pip install -r requirements.txt
+
 ```
 ## Run steamlit app
 ```
