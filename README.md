@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ```
 ## Run steamlit app
 ```
-https://bike-dataset-u8qnpfhzb3zcnjt6xhn9yx.streamlit.app
+streamlit run streamlitapp.py
 ```
