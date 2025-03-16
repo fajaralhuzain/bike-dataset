@@ -4,19 +4,11 @@
 ```
 mkdir dashboard
 cd dashboard
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-```
-## test
-```
-mkdir dashboard
-cd dashboard
 #create venv
 python -m venv streamlit_env
 
 #Activate
-1.windows
+1.Windows
 streamlit_env\Scripts\activate
 2.Mac/Linux
 source streamlit_env/bin/activate
